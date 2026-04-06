@@ -15,3 +15,16 @@ A Monte Carlo experiment for estimating the variability of a sample variance whe
 A bootstrap-based variance estimation example using a fixed sample of centered scores.
 
 This file is useful for understanding how repeated random sampling or resampling can approximate sampling distributions and standard errors.
+
+# Requirements
+You only need base R to run these scripts.
+
+No external packages are required.
+
+# How to Run
+
+In R or RStudio, run:
+
+source("mc method_upload.R")
+
+Because example function calls are already included inside the scripts, sourcing the files will immediately execute the demonstrations.
